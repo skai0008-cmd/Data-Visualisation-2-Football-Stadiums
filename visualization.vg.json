@@ -26,7 +26,7 @@
     {
       "name": "source_3",
       "url": "https://raw.githubusercontent.com/skai0008-cmd/Data-Visualisation-2-Football-Stadiums/main/stadiums.csv",
-      "format": {"type": "csv", "delimiter": ","},
+      "format": {"type": "csv"},
       "transform": [
         {
           "type": "geojson",
